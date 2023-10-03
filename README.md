@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jason Bet Sargon========================================================================================================================================Gameplay Programmer-------------------I've been coding mini games and expanding on my ability to code and design games.* 🌍  I'm based in SoCal* 🖥️  See my portfolio at [My Portfolio Site](http://https://jasonbet.github.io/jasonbetsargon.github.io/)* ✉️  You can contact me at [jasonbetsargon@gmail.com](mailto:jasonbetsargon@gmail.com)* 🧠  I'm learning Unreal Engine 5 and SDL2* 🤝  I'm open to collaborating on Indie Games
+Hi 👋 My name is Jason Bet Sargon
+=================================Gameplay Programmer-------------------I've been coding mini games and expanding on my ability to code and design games.* 🌍  I'm based in SoCal* 🖥️  See my portfolio at [My Portfolio Site](http://https://jasonbet.github.io/jasonbetsargon.github.io/)* ✉️  You can contact me at [jasonbetsargon@gmail.com](mailto:jasonbetsargon@gmail.com)* 🧠  I'm learning Unreal Engine 5 and SDL2* 🤝  I'm open to collaborating on Indie Games
 
 ### Skills
 
