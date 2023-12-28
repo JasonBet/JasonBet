@@ -1,7 +1,7 @@
 Hi 👋 My name is Jason Bet Sargon
 =================================
 
-Gameplay Programmer
+Software Engineer | Gameplay Programmer
 -------------------
 
 I've been coding mini games and expanding on my ability to code and design games.
@@ -9,7 +9,7 @@ I've been coding mini games and expanding on my ability to code and design games
 *   🌍  I'm based in SoCal
 *   🖥️  See my portfolio at [My Portfolio Site](https://jasonbet.github.io/jasonbetsargon.github.io/)
 *   ✉️  You can contact me at [jasonbetsargon@gmail.com](mailto:jasonbetsargon@gmail.com)
-*   🧠  I'm learning Unreal Engine 5 and SDL2
+*   🧠  I'm learning Unreal Engine 5 and Raylib
 *   🤝  I'm open to collaborating on Indie Games
 
 ### Skills 
