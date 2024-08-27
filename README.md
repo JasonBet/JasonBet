@@ -1,4 +1,4 @@
-Hi 👋 My name is Jason Bet Sargon
+Hi 👋 My name is Jason Betsargon
 =================================
 
 Software Engineer | Full-Stack Developer
