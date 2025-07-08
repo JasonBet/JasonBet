@@ -23,19 +23,20 @@
 <!-- ---------- SKILLS ---------- -->
 ### 🧰 Technical Toolbox  
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  ><img src="https://techicons.dev/icons?i=javascript"  width="36" height="36" alt="JavaScript"/></a>
-  <a href="https://react.dev/"                                     ><img src="https://techicons.dev/icons?i=react"       width="36" height="36" alt="React"     /></a>
-  <a href="https://nodejs.org/"                                    ><img src="https://techicons.dev/icons?i=nodejs"     width="36" height="36" alt="Node.js"  /></a>
-  <a href="https://expressjs.com/"                                 ><img src="https://techicons.dev/icons?i=express"    width="36" height="36" alt="Express"  /></a>
-  <a href="https://aws.amazon.com/"                                ><img src="https://techicons.dev/icons?i=aws"        width="36" height="36" alt="AWS"      /></a>
-  <a href="https://www.postgresql.org/"                            ><img src="https://techicons.dev/icons?i=postgresql" width="36" height="36" alt="PostgreSQL"/></a>
-  <a href="https://www.python.org/"                                ><img src="https://techicons.dev/icons?i=python"     width="36" height="36" alt="Python"   /></a>
-  <a href="https://isocpp.org/"                                    ><img src="https://techicons.dev/icons?i=cpp"        width="36" height="36" alt="C++"      /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"      ><img src="https://techicons.dev/icons?i=html"       width="36" height="36" alt="HTML5"    /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"       ><img src="https://techicons.dev/icons?i=css"        width="36" height="36" alt="CSS3"     /></a>
-  <a href="https://getbootstrap.com/"                              ><img src="https://techicons.dev/icons?i=bootstrap"  width="36" height="36" alt="Bootstrap"/></a>
-  <a href="https://git-scm.com/"                                   ><img src="https://techicons.dev/icons?i=git"        width="36" height="36" alt="Git"      /></a>
-  <a href="https://docs.npmjs.com/"                                ><img src="https://techicons.dev/icons?i=npm"        width="36" height="36" alt="npm"      /></a>
+  <img src="images/JavaScript.svg"   width="36" height="36" alt="JavaScript"/>
+  <img src="images/typescript.svg"   width="36" height="36" alt="TypeScript"/>
+  <img src="images/react.svg"        width="36" height="36" alt="React"/>
+  <img src="images/nodejs.svg"       width="36" height="36" alt="Node.js"/>
+  <img src="images/express.svg"      width="36" height="36" alt="Express"/>
+  <img src="images/aws.svg"          width="36" height="36" alt="AWS"/>
+  <img src="images/postgresql.svg"   width="36" height="36" alt="PostgreSQL"/>
+  <img src="images/python.svg"       width="36" height="36" alt="Python"/>
+  <img src="images/cplusplus.svg"    width="36" height="36" alt="C++"/>
+  <img src="images/html.svg"         width="36" height="36" alt="HTML5"/>
+  <img src="images/css.svg"          width="36" height="36" alt="CSS3"/>
+  <img src="images/bootstrap.svg"    width="36" height="36" alt="Bootstrap"/>
+  <img src="images/git.svg"          width="36" height="36" alt="Git"/>
+  <img src="images/npm.svg"          width="36" height="36" alt="npm"/>
 </p>
 
 <!-- ---------- FEATURED PROJECTS ---------- -->
