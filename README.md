@@ -24,19 +24,19 @@
 ### 🧰 Technical Toolbox  
 <p align="left">
   <img src="images/JavaScript.svg"   width="36" height="36" alt="JavaScript"/>
-  <img src="images/typescript.svg"   width="36" height="36" alt="TypeScript"/>
-  <img src="images/react.svg"        width="36" height="36" alt="React"/>
-  <img src="images/nodejs.svg"       width="36" height="36" alt="Node.js"/>
-  <img src="images/express.svg"      width="36" height="36" alt="Express"/>
-  <img src="images/aws.svg"          width="36" height="36" alt="AWS"/>
-  <img src="images/postgresql.svg"   width="36" height="36" alt="PostgreSQL"/>
-  <img src="images/python.svg"       width="36" height="36" alt="Python"/>
-  <img src="images/cplusplus.svg"    width="36" height="36" alt="C++"/>
-  <img src="images/html.svg"         width="36" height="36" alt="HTML5"/>
-  <img src="images/css.svg"          width="36" height="36" alt="CSS3"/>
-  <img src="images/bootstrap.svg"    width="36" height="36" alt="Bootstrap"/>
-  <img src="images/git.svg"          width="36" height="36" alt="Git"/>
-  <img src="images/npm.svg"          width="36" height="36" alt="npm"/>
+  <img src="images/TypeScript.svg"   width="36" height="36" alt="TypeScript"/>
+  <img src="images/React.svg"        width="36" height="36" alt="React"/>
+  <img src="images/Node.js.svg"       width="36" height="36" alt="Node.js"/>
+  <img src="images/Express.svg"      width="36" height="36" alt="Express"/>
+  <img src="images/AWS.svg"          width="36" height="36" alt="AWS"/>
+  <img src="images/PostgresSQL.svg"   width="36" height="36" alt="PostgreSQL"/>
+  <img src="images/Python.svg"       width="36" height="36" alt="Python"/>
+  <img src="images/C++ (CPlusPlus).svg"    width="36" height="36" alt="C++"/>
+  <img src="images/HTML5.svg"         width="36" height="36" alt="HTML5"/>
+  <img src="images/CSS3.svg"          width="36" height="36" alt="CSS3"/>
+  <img src="images/Bootstrap.svg"    width="36" height="36" alt="Bootstrap"/>
+  <img src="images/Git.svg"          width="36" height="36" alt="Git"/>
+  <img src="images/NPM.svg"          width="36" height="36" alt="npm"/>
 </p>
 
 <!-- ---------- FEATURED PROJECTS ---------- -->
