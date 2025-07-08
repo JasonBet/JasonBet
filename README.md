@@ -65,17 +65,6 @@
   </a>
 </p>
 
-<!-- ---------- HIGHLIGHTED REPOSITORIES ---------- -->
-### ⭐ Highlighted Repositories
-<p align="center">
-  <!-- Swap in your flagship repos below -->
-  <a href="https://github.com/JasonBet/resume-builder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JasonBet&repo=resume-builder&show_owner=true" alt="Resume Builder" />
-  </a>
-  <a href="https://github.com/JasonBet/ml-stock-trader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JasonBet&repo=ml-stock-trader&show_owner=true" alt="ML Stock Trader" />
-  </a>
-</p>
 
 <!-- ---------- CONNECT ---------- -->
 ### 🤝 Let’s Connect
