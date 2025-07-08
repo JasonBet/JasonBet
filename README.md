@@ -23,14 +23,19 @@
 <!-- ---------- SKILLS ---------- -->
 ### 🧰 Technical Toolbox  
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  ><img src="https://techicons.dev/icons?i=javascript"  width="36" height="36" alt="JavaScript"/></a>
+  <a href="https://react.dev/"                                     ><img src="https://techicons.dev/icons?i=react"       width="36" height="36" alt="React"     /></a>
+  <a href="https://nodejs.org/"                                    ><img src="https://techicons.dev/icons?i=nodejs"     width="36" height="36" alt="Node.js"  /></a>
+  <a href="https://expressjs.com/"                                 ><img src="https://techicons.dev/icons?i=express"    width="36" height="36" alt="Express"  /></a>
+  <a href="https://aws.amazon.com/"                                ><img src="https://techicons.dev/icons?i=aws"        width="36" height="36" alt="AWS"      /></a>
+  <a href="https://www.postgresql.org/"                            ><img src="https://techicons.dev/icons?i=postgresql" width="36" height="36" alt="PostgreSQL"/></a>
+  <a href="https://www.python.org/"                                ><img src="https://techicons.dev/icons?i=python"     width="36" height="36" alt="Python"   /></a>
+  <a href="https://isocpp.org/"                                    ><img src="https://techicons.dev/icons?i=cpp"        width="36" height="36" alt="C++"      /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"      ><img src="https://techicons.dev/icons?i=html"       width="36" height="36" alt="HTML5"    /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"       ><img src="https://techicons.dev/icons?i=css"        width="36" height="36" alt="CSS3"     /></a>
+  <a href="https://getbootstrap.com/"                              ><img src="https://techicons.dev/icons?i=bootstrap"  width="36" height="36" alt="Bootstrap"/></a>
+  <a href="https://git-scm.com/"                                   ><img src="https://techicons.dev/icons?i=git"        width="36" height="36" alt="Git"      /></a>
+  <a href="https://docs.npmjs.com/"                                ><img src="https://techicons.dev/icons?i=npm"        width="36" height="36" alt="npm"      /></a>
 </p>
 
 <!-- ---------- FEATURED PROJECTS ---------- -->
@@ -52,16 +57,6 @@
 <p align="center">
   <a href="https://github.com/JasonBet">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JasonBet&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/JasonBet">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JasonBet&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=Commit Activity" alt="Commit graph" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/JasonBet">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonBet&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top Languages" alt="Top languages" />
   </a>
 </p>
 
