@@ -16,7 +16,7 @@
 ### 📌 Quick Facts
 - 🌍 **Location:** Southern California  
 - 🎓 **Education:** B.S. Computer Science (’22) | M.S. CS in progress (OMSCS)  
-- 💼 **Looking for:** Summer ’26 SWE internship or junior full-time (Backend / Full-stack)  
+- 💼 **Looking for:** Summer ’27 SWE internship or junior full-time (Backend / Full-stack)  
 - 🛠 **Core Stack:** JavaScript (ES6+), React, Node.js, Python, SQL  
 - 🌱 **Currently Learning:** Distributed Systems, AWS CDK, AI/ML  
 
