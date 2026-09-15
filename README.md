@@ -45,7 +45,7 @@
 |---------|------|------------|
 | **Resume Builder** | React · HTML/CSS | ▸ Live-updating UI & PDF export with `react-to-print`<br>▸ CI/CD & auto-deploy on Render |
 | **ML Stock Trader** | Python · Pandas · NumPy | ▸ Random Forest model with technical-indicator features<br>▸ Back-tested vs. S&P 500 benchmark |
-| **Battleship** | JS · HTML/CSS | ▸ TDD with Jest<br>▸ AI opponent using A* search & heuristic targeting |
+| **Battleship** | JS · HTML/CSS | ▸ TDD with Jest<br>▸ Heuristic enemy AI that transitions from random search to targeted hunt mode after successful attacks |
 
 <!-- ---------- CURRENT FOCUS ---------- -->
 ### 🗺️ What I’m Working on
