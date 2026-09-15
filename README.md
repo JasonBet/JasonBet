@@ -47,20 +47,6 @@
 | **ML Stock Trader** | Python · Pandas · NumPy | ▸ Random Forest model with technical-indicator features<br>▸ Back-tested vs. S&P 500 benchmark |
 | **Battleship** | JS · HTML/CSS | ▸ TDD with Jest<br>▸ Heuristic enemy AI that transitions from random search to targeted hunt mode after successful attacks |
 
-<!-- ---------- CURRENT FOCUS ---------- -->
-### 🗺️ What I’m Working on
-- 🔧 Enhancing **Battleship AI**: minimax + pruning  
-- 🤖 OMSCS **Robotics: AI Techniques** coursework  
-- ✍️ Drafting a blog post series: “Design Patterns in React 2025”
-
-<!-- ---------- GITHUB STATS ---------- -->
-### 📊 GitHub Activity
-<p align="center">
-  <a href="https://github.com/JasonBet">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JasonBet&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak" />
-  </a>
-</p>
-
 
 <!-- ---------- CONNECT ---------- -->
 ### 🤝 Let’s Connect
@@ -74,7 +60,3 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 
-<!-- ---------- FOOTER QUOTE (optional) ---------- -->
-<p align="center">
-  <em>“Building reliable software is just applied curiosity.”</em>
-</p>
