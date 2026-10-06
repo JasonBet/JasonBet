@@ -44,7 +44,7 @@
 
 | Project | Tech | Highlights |
 |---------|------|------------|
-| **[ML Trading Strategy](https://github.com/JasonBet/ml-trading-strategy)** | Python · Pandas · NumPy | ▸ Random Forest classifier (1,000 bagged trees) over five hand-built technical indicators<br>▸ Finished a 2-year out-of-sample window profitable while buy-and-hold on the same equity returned −8.4%<br>▸ Custom market simulator modeling commission and market impact |
+| **[ML Trading Strategy](https://github.com/JasonBet/ML-Stock-Trader-Research-Project)** | Python · Pandas · NumPy | ▸ Random Forest classifier (1,000 bagged trees) over five hand-built technical indicators<br>▸ Finished a 2-year out-of-sample window profitable while buy-and-hold on the same equity returned −8.4%<br>▸ Custom market simulator modeling commission and market impact |
 | **[Battleship](https://github.com/JasonBet/battleship)** | JavaScript · Jest | ▸ Event-driven ES6 module architecture separating game logic from rendering<br>▸ Test-Driven Development with Jest<br>▸ Heuristic enemy AI that shifts from random search to targeted hunt mode after a hit |
 | **[Resume Builder](https://github.com/JasonBet/CV-App)** | React · HTML/CSS | ▸ Live-updating preview via lifted state and controlled components<br>▸ localStorage persistence with automatic state restoration<br>▸ One-click PDF export with `react-to-print` · [live demo](https://cv-application-builder-jasonb.netlify.app/) |
 
